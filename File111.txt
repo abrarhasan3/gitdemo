@@ -1,2 +1,4 @@
 DEMO
 Adding A TEXT.
+I am adding Text from add.
+I am adding TEXT2.
